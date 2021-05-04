@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CNDAILYHOT</title>
+  
+  
+  <link href="http://cndailyhot.com/atom.xml" rel="self"/>
+  
+  <link href="http://cndailyhot.com/"/>
+  <updated>2021-05-04T08:51:17.341Z</updated>
+  <id>http://cndailyhot.com/</id>
+  
+  <author>
+    <name>Chang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>How do you rate &quot;You at the Same Table&quot;, a Chinese cartoonist&#39;s depiction of China&#39;s support for India&#39;s fight against the epidemic?</title>
+    <link href="http://cndailyhot.com/2021/05/04/Table-a-Chinese-cartoonist-s-depiction-of-China-s-support-for-India-s-fight-against-the-epidemic/"/>
+    <id>http://cndailyhot.com/2021/05/04/Table-a-Chinese-cartoonist-s-depiction-of-China-s-support-for-India-s-fight-against-the-epidemic/</id>
+    <published>2021-05-04T04:12:36.000Z</published>
+    <updated>2021-05-04T08:51:17.341Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Q&quot;&gt;&lt;a href=&quot;#Q&quot; class=&quot;headerlink&quot; title=&quot;Q:&quot;&gt;&lt;/a&gt;Q:&lt;/h1&gt;&lt;p&gt;How do you rate “You at the Same Table”, a Chinese cartoonist’s depiction of China’s support for India’s fight against the epidemic?&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="zhihu" scheme="http://cndailyhot.com/tags/zhihu/"/>
+    
+  </entry>
+  
+</feed>
